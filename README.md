@@ -1,7 +1,7 @@
 ![Logo UNAHUR](./UNAHUR.png)
 
 # Programación con objetos I
-## Presentación Personal
+## Presentación Personal.
 
 ### Datos Personales
 - Mi nombre es: Eric Rodriguez Ferreyra
